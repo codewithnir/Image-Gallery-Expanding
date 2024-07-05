@@ -1,2 +1,2 @@
 # Image-Gallery-Expanding
- https://middleclassnitin.github.io/Image-Gallery-Expanding/
+ https://codewithnir.github.io/Image-Gallery-Expanding/
